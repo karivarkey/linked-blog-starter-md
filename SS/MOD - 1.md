@@ -40,7 +40,7 @@
 > Extra Expensive
 - Same as SIC but has $2^{20}$ (1Mb) memory
 ## REGISTERS IN SIC XE
-- All registers in SIC and 5 more
+- All registers in SIC and 4 more
 - **B**
 	- Base register used for addressing
 - **S**
